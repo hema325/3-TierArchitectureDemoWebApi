@@ -1,0 +1,14 @@
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache

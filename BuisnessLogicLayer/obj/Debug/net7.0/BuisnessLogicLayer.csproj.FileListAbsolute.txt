@@ -1,0 +1,15 @@
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.deps.json
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.pdb
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.AssemblyInfo.cs
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.CopyComplete
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\refint\BuisnessLogicLayer.dll
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.pdb
+D:\ASP .NET Core\3-TierArchitectureDemoWebApi\BuisnessLogicLayer\obj\Debug\net7.0\ref\BuisnessLogicLayer.dll
